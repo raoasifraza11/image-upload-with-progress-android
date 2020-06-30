@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798558664002",
+    "firebase_url": "https://splashscreen-a5cea.firebaseio.com",
+    "project_id": "splashscreen-a5cea",
+    "storage_bucket": "splashscreen-a5cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798558664002:android:d4fd187218f065a45904db",
+        "android_client_info": {
+          "package_name": "project.event.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798558664002-5145jpsl6i0se69b1deka8nlako8iv6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwdX_h0PftZM0JKwxE8yiTJ4dccBNF9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798558664002-5145jpsl6i0se69b1deka8nlako8iv6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
